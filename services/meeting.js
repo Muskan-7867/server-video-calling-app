@@ -33,3 +33,6 @@ async function joinMeeting(params, callback) {
   
 }
 
+async function isPresentMeeting(params, callback) {
+    
+}
